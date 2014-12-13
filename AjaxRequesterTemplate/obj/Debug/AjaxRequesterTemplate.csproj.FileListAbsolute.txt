@@ -1,0 +1,6 @@
+G:\SotUni\JS-Aplication\ExamPrepare\AjaxRequesterTemplate\AjaxRequesterTemplate\bin\AjaxRequesterTemplate.dll.config
+G:\SotUni\JS-Aplication\ExamPrepare\AjaxRequesterTemplate\AjaxRequesterTemplate\bin\AjaxRequesterTemplate.dll
+G:\SotUni\JS-Aplication\ExamPrepare\AjaxRequesterTemplate\AjaxRequesterTemplate\bin\AjaxRequesterTemplate.pdb
+G:\SotUni\JS-Aplication\ExamPrepare\AjaxRequesterTemplate\AjaxRequesterTemplate\obj\Debug\AjaxRequesterTemplate.csprojResolveAssemblyReference.cache
+G:\SotUni\JS-Aplication\ExamPrepare\AjaxRequesterTemplate\AjaxRequesterTemplate\obj\Debug\AjaxRequesterTemplate.dll
+G:\SotUni\JS-Aplication\ExamPrepare\AjaxRequesterTemplate\AjaxRequesterTemplate\obj\Debug\AjaxRequesterTemplate.pdb
